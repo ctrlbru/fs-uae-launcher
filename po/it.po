@@ -562,7 +562,7 @@ msgid "Filters"
 msgstr "Filtri"
 
 msgid "Finding files eligible for OAGD.net Locker"
-msgstr "Trovare i file idonei per l'armadietto OAGD.net"
+msgstr "Ricerca di file idonei per OpenRetro Locker"
 
 msgid "Floppies"
 msgstr "Dischetti"
@@ -1473,7 +1473,7 @@ msgid "{} ROM files were imported"
 msgstr "Sono stati importati {} file ROM"
 
 msgid "Finding files eligible for OpenRetro Locker"
-msgstr "Ricerca file idonei per il Locker OpenRetro"
+msgstr "Ricerca di file idonei per OpenRetro Locker"
 
 msgid "Locker upload task completed successfully"
 msgstr "Invio al Locker completato correttamente"
@@ -1485,13 +1485,13 @@ msgid "Log Out from Your OpenRetro Account"
 msgstr "Esci dal tuo account OpenRetro"
 
 msgid "OpenRetro Locker Uploader"
-msgstr "Invio al Locker OpenRetro"
+msgstr "Invio a OpenRetro Locker"
 
 msgid "OpenRetro Locker is not enabled for your user. It may be available only to a few select beta users."
-msgstr "Il Locker OpenRetro non è abilitato per il tuo utente. Potrebbe essere disponibile solo per alcuni utenti beta."
+msgstr "OpenRetro Locker non è abilitato per il tuo utente. Potrebbe essere disponibile solo per alcuni utenti beta."
 
 msgid "Upload recognized Amiga files to your OpenRetro locker"
-msgstr "Invia i file Amiga riconosciuti al Locker OpenRetro"
+msgstr "Invia i file Amiga riconosciuti ad OpenRetro Locker"
 
 msgid "Use GameMode to optimize performance"
 msgstr "Usa GameMode per ottimizzare le performance"
