@@ -619,7 +619,7 @@ msgid "Games"
 msgstr "Giochi"
 
 msgid "Good Variant"
-msgstr "Variante Buona"
+msgstr "Variante buona"
 
 msgid "Grab Input on Click"
 msgstr "Cattura input col click"
@@ -652,7 +652,7 @@ msgid "HRTMon v2.36 (Built-in)"
 msgstr "HRTMon v2.36 (incorporato)"
 
 msgid "Hard Drives"
-msgstr "Disco Rigido"
+msgstr "Dischi rigidi"
 
 msgid "Hardware"
 msgstr "Hardware"
@@ -686,10 +686,10 @@ msgid "Import From Amiga Forever CD/DVD"
 msgstr "Importa da un CD/DVD di Amiga Forever"
 
 msgid "Import Kickstarts"
-msgstr "Importa Kickstarts"
+msgstr "Importa Kickstart"
 
 msgid "Import Kickstarts and ROMs"
-msgstr "Importa Kickstarts e ROM"
+msgstr "Importa Kickstart e ROM"
 
 msgid "Import task is done"
 msgstr "L'importazione è stata eseguita"
@@ -842,7 +842,7 @@ msgid "Max Scaling"
 msgstr "Scalatura massima"
 
 msgid "Media Swap List"
-msgstr "Elenco dei media Sostitutivi"
+msgstr "Elenco dei media sostitutivi"
 
 msgid "Medium"
 msgstr "Media"
@@ -1052,7 +1052,7 @@ msgid "ROM and RAM"
 msgstr "ROM e RAM"
 
 msgid "Rate Variant"
-msgstr "Variante di tasso"
+msgstr "Valuta variante"
 
 #, python-brace-format
 msgid "Re-trying in {0} seconds..."
@@ -1453,7 +1453,7 @@ msgid "You can write key = value pairs here to set FS-UAE options not currently 
 msgstr "È possibile aggiungere qui delle coppie \"chiave = valore\" per impostare le opzioni di FS-UAE non ancora supportate dall'interfaccia utente. Si tratta di una soluzione temporanea fino a quando la GUI non supporterà direttamente tutte le opzioni."
 
 msgid "You should have kickstart files for each Amiga model you want to use:"
-msgstr "Dovresti avere i file kickstart per ogni modello di Amiga che si desidera utilizzare:"
+msgstr "Dovresti avere i file kickstart per ogni modello di Amiga che desideri utilizzare:"
 
 msgid "Zoom Amiga display (crop)"
 msgstr "Ingrandisci la visualizzazione Amiga (ritaglia)"
@@ -1473,29 +1473,29 @@ msgid "{} ROM files were imported"
 msgstr "Sono stati importati {} file ROM"
 
 msgid "Finding files eligible for OpenRetro Locker"
-msgstr ""
+msgstr "Ricerca file idonei per il Locker OpenRetro"
 
 msgid "Locker upload task completed successfully"
-msgstr ""
+msgstr "Invio al Locker completato correttamente"
 
 msgid "Log In to Your OpenRetro Account"
-msgstr ""
+msgstr "Collegati al tuo account OpenRetro"
 
 msgid "Log Out from Your OpenRetro Account"
-msgstr ""
+msgstr "Esci dal tuo account OpenRetro"
 
 msgid "OpenRetro Locker Uploader"
-msgstr ""
+msgstr "Invio al Locker OpenRetro"
 
 msgid "OpenRetro Locker is not enabled for your user. It may be available only to a few select beta users."
-msgstr ""
+msgstr "Il Locker OpenRetro non è abilitato per il tuo utente. Potrebbe essere disponibile solo per alcuni utenti beta."
 
 msgid "Upload recognized Amiga files to your OpenRetro locker"
-msgstr ""
+msgstr "Invia i file Amiga riconosciuti al Locker OpenRetro"
 
 msgid "Use GameMode to optimize performance"
-msgstr ""
+msgstr "Usa GameMode per ottimizzare le performance"
 
 msgid "Warn when CPU governor is not 'performance'"
-msgstr ""
+msgstr "Avvisa quanto il governor della CPI non è 'performance'"
 
