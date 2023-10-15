@@ -1476,26 +1476,26 @@ msgid "Finding files eligible for OpenRetro Locker"
 msgstr "Ricerca di file idonei per OpenRetro Locker"
 
 msgid "Locker upload task completed successfully"
-msgstr "Invio al Locker completato correttamente"
+msgstr "Caricamento Locker completato con successo"
 
 msgid "Log In to Your OpenRetro Account"
-msgstr "Collegati al tuo account OpenRetro"
+msgstr "Accedi al tuo account OpenRetro"
 
 msgid "Log Out from Your OpenRetro Account"
 msgstr "Esci dal tuo account OpenRetro"
 
 msgid "OpenRetro Locker Uploader"
-msgstr "Invio a OpenRetro Locker"
+msgstr "Caricatore OpenRetro Locker"
 
 msgid "OpenRetro Locker is not enabled for your user. It may be available only to a few select beta users."
-msgstr "OpenRetro Locker non è abilitato per il tuo utente. Potrebbe essere disponibile solo per alcuni utenti beta."
+msgstr "OpenRetro Locker non è abilitato per il tuo utente. Potrebbe essere disponibile solo per alcuni utenti beta selezionati."
 
 msgid "Upload recognized Amiga files to your OpenRetro locker"
-msgstr "Invia i file Amiga riconosciuti ad OpenRetro Locker"
+msgstr "Carica i file Amiga riconosciuti nel tuo OpenRetro Locker"
 
 msgid "Use GameMode to optimize performance"
-msgstr "Usa GameMode per ottimizzare le performance"
+msgstr "Usa GameMode per ottimizzare le prestazioni"
 
 msgid "Warn when CPU governor is not 'performance'"
-msgstr "Avvisa quanto il governor della CPI non è 'performance'"
+msgstr "Avvisa quando il governor della CPU non è 'performance'"
 
